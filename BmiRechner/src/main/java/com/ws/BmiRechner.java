@@ -13,4 +13,5 @@ import javax.jws.soap.SOAPBinding.Style;
 public interface BmiRechner {
 	@WebMethod String getHello();
 	@WebMethod double getBmi(@WebParam(name="gewicht")double gewicht, @WebParam(name="groesse")double groesse);
+	@WebMethod void createDB();
 }

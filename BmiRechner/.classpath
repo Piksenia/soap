@@ -34,5 +34,6 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="lib" path="C:/Users/Xenia/Downloads/cors-filter-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Xenia/Desktop/Master/1.Semester/h2/bin/h2-1.4.196.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
